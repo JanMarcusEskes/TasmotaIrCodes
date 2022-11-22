@@ -1,0 +1,6 @@
+RVNB75_Power={"Protocol":"JVC","Bits":16,"Data":"0xF900","DataLSB":"0x9F00","Repeat":1}
+RVNB75_Louder={"Protocol":"JVC","Bits":16,"Data":"0xF980","DataLSB":"0x9F01","Repeat":1}
+RVNB75_Quieter={"Protocol":"JVC","Bits":16,"Data":"0xF940","DataLSB":"0x9F02","Repeat":1}
+RVNB75_Mute={"Protocol":"JVC","Bits":16,"Data":"0xF9C0","DataLSB":"0x9F03","Repeat":1}
+RVNB75_Subwoofer_Louder={"Protocol":"JVC","Bits":16,"Data":"0xF9E1","DataLSB":"0x9F87","Repeat":1}
+RVNB75_Subwoofer_Quieter={"Protocol":"JVC","Bits":16,"Data":"0xF911","DataLSB":"0x9F88","Repeat":1}
